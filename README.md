@@ -1,16 +1,16 @@
-<h1 align="center"><b>Shewin</b></h1>
+<h1 align="center"><b>Sheglow</b></h1>
 
 <div align="center">
   <a id="top" href="https://shewin.netlify.app/" target="blank">
     <img src="https://user-images.githubusercontent.com/86917304/189530487-4f2eba29-9268-4801-9f4f-b2a9b03948a1.png" width="100px" alt="">
   </a>
 
-  <h3 align="center">Shewin - We Care She Wins</h3>
+  <h3 align="center">Sheglow - We Care She Glows</h3>
 
   <p align="center">
-    <a href="https://shewin.netlify.app/" target="blank">Live Demo</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Report Bug</a> |
-    <a href="https://github.com/Sreetama2001/SheWins-Period_Helper/issues" target="blank">Request Feature</a>
+    <!-- <a href="https://shewin.netlify.app/" target="blank">Live Demo</a> | -->
+    <a href="https://github.com/Sreetama2001/SheGlow-Period_Helper/issues" target="blank">Report Bug</a> |
+    <a href="https://github.com/Sreetama2001/SheGlow-Period_Helper/issues" target="blank">Request Feature</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Pranshu321/Placed.git
+   git clone https://github.com/BTANISHA11/Placed.git
    ```
 2. Now install all npm packages.
    ```sh
