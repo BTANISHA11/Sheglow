@@ -118,22 +118,22 @@ This is our feature where the user can tracker the upcoming period perdictions a
 ## Dashboard
 This is the place where **Shewinner** can excess the extra features and can get all the cummilative features and feedback at one place only with just a single click.
 
-![image](https://user-images.githubusercontent.com/86917304/211191115-933a9ca5-3c04-405e-b236-fab6d3bff685.png)
+![image](https://i.postimg.cc/3N8SPbFN/dashboard.png)
 
    - ### Nearest Pharmacy
   This is will allow the user to get info about the nearest pharmacy as per his/her location.
   
-  ![image](https://user-images.githubusercontent.com/86917304/211191688-a7045374-617a-4bb3-9ddf-2cbe6a926da3.png)
+  ![image](https://i.postimg.cc/mZS2Czcy/pharmacy.png)
   
    - ### Nearest Hospital
    This is will allow the user to get info about the nearest pharmacy as per his/her location.
    
-  ![image](https://user-images.githubusercontent.com/86917304/211191726-a64b5543-a594-4606-a2d8-577a5fdb28b0.png)
+  ![image](https://i.postimg.cc/Ssf2nZFW/hospital.png)
   
   - ### Setting Reminder
     From this feature he or she can set the reminder about the appointment , period dates or any other type of reminder and they will get the reminder via email           registered with our platform.
     
-    ![image](https://user-images.githubusercontent.com/86917304/211191954-af71efc2-0682-4102-9f09-def32fe8f3d3.png)
+    ![image](https://i.postimg.cc/tgtW6RFZ/reminder.png).
     
   - ### Blogs Publish
     Through this user can published their blogs to our platform and also track the blog published by them on the dashboard only.
@@ -143,13 +143,7 @@ This is the place where **Shewinner** can excess the extra features and can get 
       - Blog Published by user
         Below card will show all the blogs published by the user
         
-        ![image](https://user-images.githubusercontent.com/86917304/211192155-8dad7292-36df-4efc-8c8e-516881732e2b.png)
-
-### Phone View
-- We going one step ahead we convert out website into the **PWA**, so that our user experience in mobile phones will be top notch and hence he/she can contribute as well as get extraodinary experience through our platform. 
-
-![image](https://user-images.githubusercontent.com/86917304/211190064-db56b99d-9fe6-47df-9e20-0a10db3c8c94.png)
-
+        ![image](https://i.postimg.cc/3N8SPbFN/dashboard.png))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -171,10 +165,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-Project Link: [Shewin](https://shewin.netlify.app)
-
-Video Link : [Shewin Demo Video](https://www.loom.com/share/462c7f86c84c499fa979a25336036709)
+Video Link : [Sheglow Demo Video](https://www.loom.com/share/462c7f86c84c499fa979a25336036709)
 
 
 
