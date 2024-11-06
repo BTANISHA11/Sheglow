@@ -2,15 +2,15 @@
 
 <div align="center">
   <a id="top" href="https://shewin.netlify.app/" target="blank">
-    <img src="sheglow.png" width="100px" alt="">
+    <img src="src/assets/svg/sheglow.png" width="100px" alt="">
   </a>
 
   <h3 align="center">Sheglow - We Care She Glows</h3>
 
   <p align="center">
     <!-- <a href="https://shewin.netlify.app/" target="blank">Live Demo</a> | -->
-    <a href="https://github.com/Sreetama2001/SheGlow-Period_Helper/issues" target="blank">Report Bug</a> |
-    <a href="https://github.com/Sreetama2001/SheGlow-Period_Helper/issues" target="blank">Request Feature</a>
+    <a href="https://github.com/BTANISHA11/SheGlow-Period_Helper/issues" target="blank">Report Bug</a> |
+    <a href="https://github.com/BTANISHA11/SheGlow-Period_Helper/issues" target="blank">Request Feature</a>
   </p>
 </div>
 
