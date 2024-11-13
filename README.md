@@ -165,7 +165,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-Video Link : [Sheglow Demo Video](https://www.loom.com/share/462c7f86c84c499fa979a25336036709)
+Video Link : [Sheglow Demo Video] Coming Soon....
 
 
 
