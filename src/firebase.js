@@ -12,10 +12,10 @@ import "firebase/compat/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDGMqKkrQRhlwNHBfmJF6fp9FJTR1SjNn8",
+apiKey: "AIzaSyDGMqKkrQRhlwNHBfmJF6fp9FJTR1SjNn8",
   authDomain: "sheglow-e2773.firebaseapp.com",
   projectId: "sheglow-e2773",
-  storageBucket: "sheglow-e2773.appspot.com",
+  storageBucket: "sheglow-e2773.firebasestorage.app",
   messagingSenderId: "201347105082",
   appId: "1:201347105082:web:90f7f1733ccf57314b5003"
 	// apiKey: "AIzaSyC5uvEVrMvaEZzcO7QrV8u8oJZQXbgF6gs",
